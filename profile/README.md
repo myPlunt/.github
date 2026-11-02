@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" alt="myPlunt logo" width="120"></p>
+<p align="center"><img src="logo-myplunt.svg" alt="myPlunt logo" width="120"></p>
 
 <h1 align="center">myPlunt</h1>
 
